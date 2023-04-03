@@ -1,5 +1,5 @@
 
-package practica1bEJ3;
+package ej2;
 
 
 public class Estudiante {
@@ -53,3 +53,4 @@ public class Estudiante {
         return "Nombre: " + this.getNombre() + ". Apellido: " + this.getApellido() + ". Email: " + this.getEmail() + ". Direccion: " + this.getDireccion() + ". Comision " + this.getComision();
     }
 }
+
